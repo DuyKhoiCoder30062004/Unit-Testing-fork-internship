@@ -1,0 +1,4 @@
+https://piresfernando.com/blog/first-test
+https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/
+https://algocademy.com/blog/how-to-optimize-your-code-for-better-performance-a-comprehensive-guide/
+https://semaphore.io/blog/aaa-pattern-test-automation
